@@ -1,4 +1,0 @@
-# 1. A system with multiple rental stores and vehicle categories.
-# 2. Reservation management with conflict prevention.
-# 3. Dynamic pricing based on duration and vehicle type. 
-# 4. Abitlity to handle edge cases like late returns, damages and early pickups.
